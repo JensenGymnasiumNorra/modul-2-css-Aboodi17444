@@ -15,3 +15,5 @@ Någon av nedanstående:
 
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+
+# Jag har nu lagt till position: relative på header, bakgrund-box och special-h1, samt position: sticky på footern för att uppfylla uppgiftens krav på positionering

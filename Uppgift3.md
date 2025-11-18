@@ -20,3 +20,5 @@ Några av nedanstående:
 
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+
+# Jag lade till fler CSS-egenskaper som uppgiften krävde, bland annat font-family och font-style på p-taggarna samt text-shadow på den nya h1-klassen

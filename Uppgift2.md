@@ -22,3 +22,5 @@ Vi kommer köra spelet https://flukeout.github.io/ genom exam.net
 
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+
+# Jag lade till en ny paragraf i en div med bakgrund och gav texten en egen klass för styling. Jag la också till en ny h1 med en klass som har en annan stil än vanliga h1. CSS:en uppdaterades så att paragrafen, div:en, texten och den nya h1 får rätt utseende

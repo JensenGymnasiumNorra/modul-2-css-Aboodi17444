@@ -18,5 +18,7 @@ Några av nedanstående:
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
 
+# Jag stylade bara med padding, margin, border och height/width
+
 # Extra övning
 Gör exercise på: https://www.w3schools.com/css/css_boxmodel.asp

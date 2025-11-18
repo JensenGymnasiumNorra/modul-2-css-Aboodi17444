@@ -15,3 +15,5 @@
 
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+
+# Jag lade till en titel för sidan och en huvudrubrik i headern. I navigationen la jag in fyra relevanta länkar. De två sektionerna i main fyllde jag med eget innehåll. I footern lade jag in kontaktuppgifter. Jag stylade också h1-elementet, gav headern en bakgrund och centrering samt gjorde en enkel styling av footern för att uppfylla kraven
